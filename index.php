@@ -1,4 +1,3 @@
 <?php
-echo "hello world\n";
-echo "現在時間: " . date("Y-m-d H:i:s");
+echo "我一直在哭，這個頁面原本長怎樣我已經忘了"
 ?>
